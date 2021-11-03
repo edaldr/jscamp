@@ -30,3 +30,4 @@ console.log("</ul>")
 }
 
 console.log(konutKredileri)
+
